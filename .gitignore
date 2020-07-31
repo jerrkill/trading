@@ -1,0 +1,15 @@
+# 文件系统
+.DS*
+._*
+.swp
+.swo
+.idea
+*.swo
+*.swp
+.#*
+.*~
+*~
+Thumbnail.db
+.App*
+.vscode
+*.log
